@@ -1,37 +1,40 @@
-# Make It Real - All about context
+# Make It Real - All About Context
 
-## This is a solution to the _Context_ project of the Make It Real course.
+## Project Overview
 
-## The challenge
+This project is a solution to the _Context_ challenge from the Make It Real course.
 
-All About Context
+## Live Demo
 
-## Vercel page
-
-Production: https://todo-sobre-contexto.vercel.app/
+Check out the production version here: [Sistemas de Votaciones](sistema-votaciones.app/)
 
 ## Screenshot
 
-![print screen](./src/assets/print-screen.png)
+![Screenshot](./src/assets/print-screen.png)
 
-## Our process
+## Our Process
 
-### Built with
+### Built With
 
-- Semantic markup using vscode editor
-- React code using vite in vs code
-- CSS properties in a stylesheet file
-- React Router library
-- context from react
+- **HTML**: Semantic markup created using Visual Studio Code.
+- **React**: Developed using Vite in VS Code.
+- **CSS**: Styled with a dedicated stylesheet.
+- **React Router**: For navigation and routing.
+- **React Context**: To manage global state.
 
-## What I learned
+## What I Learned
 
-I practice html, css, react, context
+Throughout this project, I gained practical experience with:
+
+- HTML
+- CSS
+- React
+- React Context API
 
 ## Author
 
-
+Victor Ramirez
 
 ## Acknowledgments
 
-Thanks to Make it Real to show me a path to become a better programmer
+A special thanks to Make It Real for guiding me on my journey to becoming a better programmer.
