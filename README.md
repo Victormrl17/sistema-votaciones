@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a solution to the _Context_ challenge from the Make It Real course.
+This project consists of a voting system where users can vote for one of four available candidates. The application allows users to view both the total votes and individual results in numeric or percentage format, as well as offering filters to select which candidates to display.
 
 ## Screenshot
 
