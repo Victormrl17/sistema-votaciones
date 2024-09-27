@@ -4,10 +4,6 @@
 
 This project is a solution to the _Context_ challenge from the Make It Real course.
 
-## Live Demo
-
-Check out the production version here: [Sistemas de Votaciones](sistema-votaciones.app/)
-
 ## Screenshot
 
 ![Screenshot](./src/assets/print-screen.png)
@@ -34,7 +30,3 @@ Throughout this project, I gained practical experience with:
 ## Author
 
 Victor Ramirez
-
-## Acknowledgments
-
-A special thanks to Make It Real for guiding me on my journey to becoming a better programmer.
